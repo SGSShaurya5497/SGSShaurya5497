@@ -1,16 +1,15 @@
-## Hi there 👋
+# Shaurya Chaudhary
 
-<!--
-**SGSShaurya5497/SGSShaurya5497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ⚡ Building at the intersection of math, machine learning, and systems
 
-Here are some ideas to get you started:
+## 🎯 Focus
+Machine Learning → Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- 🤖 Machine Learning  
+- 🌐 Computer Networks  
+- ⛓️ Blockchain (Solidity)  
+- ⚙️ Node.js  
+
+## 🔗 Connect
+- GitHub: https://github.com/SGSShaurya5497
