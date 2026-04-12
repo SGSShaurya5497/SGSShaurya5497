@@ -28,7 +28,7 @@ Currently focused on:
 
 ---
 
-## 🗂️ Highlighted Projects
+## Current Skills
 
 <table>
     <thead>
