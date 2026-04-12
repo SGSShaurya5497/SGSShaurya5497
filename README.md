@@ -1,12 +1,17 @@
-<a href="https://github.com/SGSShaurya5497" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
-</a>
+<h1 align="center">
+  Hi there, I'm 
+  <a href="https://www.linkedin.com/in/sinxshaurya" target="_blank">Shaurya</a> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" />
+</h1>
 
-<a href="https://www.linkedin.com/in/sinxshaurya" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<p align="center">
+  <a href="https://github.com/SGSShaurya5497">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sinxshaurya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
