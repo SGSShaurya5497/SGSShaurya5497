@@ -20,7 +20,7 @@
 
 ## About Me
 
-- 🎓 Second-year B.Tech student, Mathematics &amp; Computing, DTU Delhi
+- 🎓 Second-year B.Tech student, Mathematics &amp; Computing, DTU 
 - 🏗️ Currently building **Arb**, a real-time price arbitrage tracker for Indian markets
 - 💻 Comfortable across the stack: React/Next.js, FastAPI/Node, PostgreSQL, Redis
 - 📊 Came out of a real commercial pilot (AI tile visualizer for retail) — shipped to actual customers, then sunset it for infra-cost reasons
