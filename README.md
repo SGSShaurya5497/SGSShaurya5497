@@ -1,139 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADB5,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Shaurya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Math%20%26%20Computing%20%40%20DTU%20%7C%20Builder&descAlignY=58&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADB5,100:0d1117&height=220&section=header&text=Shaurya%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Math%20%26%20Computing%20%40%20DTU%20%20%7C%20%20Full-Stack%20Builder&descAlignY=55&descColor=b3b3b3&animation=fadeIn" />
 
-<a href="https://www.linkedin.com/in/sinxshaurya">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/SGSShaurya5497">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=SGSShaurya5497&color=00ADB5&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/sinxshaurya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SGSShaurya5497"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=SGSShaurya5497&color=00ADB5&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Math+%2B+Computing%2C+B.Tech+%40+DTU.;Building+real+full-stack+projects.;Currently%3A+a+price+arbitrage+tracker.;Still+figuring+a+lot+of+this+out." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Math+%2B+Computing%2C+B.Tech+%40+DTU;Shipping+real%2C+used+products;Deep+in+backend%2C+systems+%26+DevOps;Always+building+something" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
-## About Me
+## 👋 About Me
 
-- 🎓 Second-year B.Tech student, Mathematics &amp; Computing, DTU 
-- 🏗️ Currently building **Arb**, a real-time price arbitrage tracker for Indian markets
+- 🎓 Second-year B.Tech student, **Mathematics & Computing**, DTU
+- 🌀 Shipped **Agamotto** — an AI-powered security surveillance platform
 - 💻 Comfortable across the stack: React/Next.js, FastAPI/Node, PostgreSQL, Redis
+- ⚙️ Full DevOps proficiency — Docker, Kubernetes, Terraform, CI/CD, observability
 - 📊 Came out of a real commercial pilot (AI tile visualizer for retail) — shipped to actual customers, then sunset it for infra-cost reasons
-- 🧮 Self-studying math beyond the syllabus (linear algebra → probability → real analysis) alongside DSA and core CS
-- 🌱 Currently learning: C++ (DSA), and rounding out backend/systems fundamentals
+- 🌱 Perpetually building — most of what's below started as a "what if" at 1 AM
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Arb</h3>
       <p>Real-time cross-platform price arbitrage tracker built for Indian retail investors — tracks ETF premium/discount to NAV, futures basis, NSE/BSE price drift, gold spread, and index tracking error. No AI/LLM components by design — pure data pipeline and signal detection.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-      <br/><sub>In active development — not yet public</sub>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <br/><sub>🔧 In active development — not yet public</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/SGSShaurya5497/Briefing">Briefing</a></h3>
-      <p>AI-powered tile visualizer for retail stores — upload a room photo and a tile image, see it applied instantly. Built for actual tile &amp; stone retailers, with a real pilot in Gurgaon before being shelved over cloud/API cost economics.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⚡ <a href="https://github.com/SGSShaurya5497/FinTech-Project-SHAURYA-">SHAURYA</a></h3>
-      <p>Concept fintech platform exploring alternate credit scoring for India's underbanked — UPI transaction analysis feeding an ML credit model, a unified net worth dashboard, and a P2P lending marketplace idea. Frontend is built and deployed; the credit-scoring model and live data integrations are still a work in progress, not a finished product.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      <h3>🌀 <a href="https://github.com/SGSShaurya5497/Agamotto">Agamotto</a></h3>
+      <p>AI-powered security surveillance platform — real-time video analysis and alerting built on TensorFlow.js, Gemini Flash, and GPT-4o mini, with a Supabase backend.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <br/><sub>✅ Shipped</sub>
     </td>
   </tr>
 </table>
 
----
-
-## Other Projects
+## 🛠️ Other Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💊 <a href="https://github.com/SGSShaurya5497/PillChain">PillChain</a></h3>
-      <p>Hackathon prototype for fake-drug detection using spectroscopy data plus an Ethereum smart contract for tamper-proof verification.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+      <h3>🧩 <a href="https://github.com/SGSShaurya5497/Briefing">Tile Swapper</a></h3>
+      <p>AI-powered tile visualizer for retail stores — upload a room photo and a tile image, see it applied instantly. Built for actual tile & stone retailers, with a real pilot in Gurgaon before being shelved over cloud/API cost economics.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/SGSShaurya5497/Prison-Records">Prison Records</a></h3>
       <p>Decentralized prison records backend using Solidity smart contracts — a class/hackathon exercise in tamper-resistant record-keeping on Ethereum.</p>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌀 <a href="https://github.com/SGSShaurya5497/Agamotto">Agamotto</a></h3>
-      <p>TypeScript project, in progress.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/SGSShaurya5497/Portfolio-Website">Portfolio Website</a></h3>
       <p>My first personal site, hand-built from scratch — used AI tools only for styling/font suggestions.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,solidity,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,solidity,html,css&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,postgres,redis,docker,kubernetes,terraform,git,github,vscode&theme=dark" />
 </p>
 
-### Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,postgres,redis,git,github,docker,vscode" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
----
-
-## Current Focus
+## 🎯 Current Focus
 
 | Area | What I'm Doing |
 |------|----------------|
-| 📐 Math | Working through linear algebra, probability, and discrete math outside the syllabus |
 | 🏗️ Backend & Systems | FastAPI, Postgres, Redis Streams, WebSockets — building Arb end to end |
+| ⚙️ DevOps | Docker, Kubernetes, Terraform, CI/CD pipelines, observability |
 | 💻 DSA | C++ for interviews and competitive programming fundamentals |
-| 💼 Freelance | Managing Meta Ads for a few clients on the side |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SGSShaurya5497&show_icons=true&theme=transparent&hide=prs&include_all_commits=true" />
-  <img height="175" src="https://streak-stats.demolab.com/?user=SGSShaurya5497&theme=transparent&hide_current_streak=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SGSShaurya5497&show_icons=true&theme=tokyonight&hide=prs&include_all_commits=true&bg_color=0d1117&title_color=00ADB5&icon_color=00ADB5&border_color=00ADB5&border_radius=10" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=SGSShaurya5497&theme=tokyonight&hide_current_streak=true&background=0d1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&border=00ADB5&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGSShaurya5497&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGSShaurya5497&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ADB5&border_color=00ADB5&border_radius=10" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SGSShaurya5497&theme=tokyo-night&bg_color=0d1117&color=00ADB5&line=00ADB5&point=ffffff&border=00000000" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADB5,100:0d1117&height=100&section=footer" />
+
+### 💬
+<i>Building things people actually use — one late night at a time.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADB5,100:0d1117&height=120&section=footer" />
+
 </div>
