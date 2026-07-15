@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SGSShaurya5497&theme=tokyo-night&bg_color=0d1117&color=00ADB5&line=00ADB5&point=ffffff&border=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SGSShaurya5497&theme=tokyo-night&bg_color=0d1117&color=00ADB5&line=00ADB5&point=ffffff&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ADB5,100:0d1117&height=2&width=1000" />
