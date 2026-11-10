@@ -40,3 +40,4 @@
 <div align="center">
 <i>Shipping things people actually use — one late night at a time.</i>
 </div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6aef3aa5d8985532e5246687?variant=dark&roadmaps=linux" alt="roadmap.sh"/></a>
